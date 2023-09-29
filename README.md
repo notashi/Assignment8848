@@ -2,14 +2,17 @@
 
 Welcome to the ReactJS website project. This project is designed to demonstrate a simple web application with login, listing, and user profile pages. It interacts with a remote API for authentication and data retrieval.
 
-
 ## Getting Started
 
-### Prerequisites
+## Key Features
 
-Before you begin, ensure you have met the following requirements:
+React.js: The project is built using React.js, a popular JavaScript library for building user interfaces.
 
-- Node.js and npm installed on your machine.
+Axios for API: Axios is employed to manage API integration, making API requests and ensuring clean and organized code.
+
+Styling: Bootstrap is used for styling the web page, providing a modern and visually appealing design.
+
+React Components: The project is organized into React components for better code structure and modularity.
 
 ### Installation
 
